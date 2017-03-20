@@ -10,7 +10,7 @@ import scala.language.implicitConversions
 import scala.language.implicitConversions
 
 /**
-  * Created by Igor Wolkov on 01.03.17.
+  * @author Igor Wolkov
   */
 class RoutingTest extends FlatSpec with Matchers {
 
